@@ -1,11 +1,16 @@
 _repo: A-first-book-in-organic-evolution_73834
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73834-h/images/cover.jpg
 creator:
   author:
     agent_name: Shute, D. Kerfoot
     gutenberg_agent_id: '57240'
     url: http://www.gutenberg.org/2009/agents/57240
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73834#A-first-book-in-organic-evolution
 gutenberg_issued: '2024-06-15'
 gutenberg_type: Text
 identifiers:
